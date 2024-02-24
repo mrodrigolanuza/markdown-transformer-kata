@@ -2,7 +2,7 @@
 
 ![Diseño Sostenible](coverds.png)
 
-## Kata Mars Rover
+## Kata Markdown Transformer
 
 >**NOTA:** Plantilla para construir la base inicial del proyecto [aquí](https://github.com/softwarecrafters-io/ts-eslint-prettier-jest).
 
